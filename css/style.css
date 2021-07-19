@@ -62,3 +62,13 @@ background-color: #DA70D6;
 background-color: #0000FF;
 }
 
+/*   subscribe  */
+
+.subscribe{
+    height: 400px;
+    background-color: #FCEAE8;
+}
+
+.subscribe button{
+    border: 0;
+}
