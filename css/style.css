@@ -16,3 +16,21 @@ a{
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+
+/* slider */
+
+.slider .slider-item {
+    background-color: #FCEAE8;
+}
+
+.slider .price{
+    color: #ff3e8a;
+}
+
+
+.slider .price-btn{
+    background-image: linear-gradient(to bottom, #f15996, #ff3e8a);
+    padding: 11px 25px;
+    color: #fff;
+}
