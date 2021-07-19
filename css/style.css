@@ -29,8 +29,36 @@ body{
 }
 
 
-.slider .price-btn{
+ .price-btn{
     background-image: linear-gradient(to bottom, #f15996, #ff3e8a);
     padding: 11px 25px;
     color: #fff;
 }
+
+
+/* ------------- categories --------------- */
+.categories .category img{
+width: 100px;
+}
+.categories .category h1{
+    color: #fff;
+}
+
+.category{
+    margin-right: 0px;
+}
+
+.categories .category .col-lg-4 > div {
+padding: 10px;
+}
+
+.categories .category.one{
+background-color: #FFA500;
+}
+.categories .category.two{
+background-color: #DA70D6;
+}
+.categories .category.three{
+background-color: #0000FF;
+}
+
